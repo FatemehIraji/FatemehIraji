@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FatemehIraji
 - 👀 I’m interested in Python, DJango and React
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? f.iraji2001@gmail.com
 
 <!---
